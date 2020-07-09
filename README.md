@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can find the app here https://gunkaartur.github.io/posts-redux-saga/
 
-Checkout how to use it ;)
+See how you can use it ;)
 
 ![](https://i.imgur.com/At8ariV.gif)
 
